@@ -1,0 +1,15 @@
+{
+    "name": "xwy/text_composer",
+    "description": "aaa",
+    "autoload": {
+        "psr-4": {
+            "Xwy\\TextComposer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "xushao"
+        }
+    ],
+    "require": {}
+}
