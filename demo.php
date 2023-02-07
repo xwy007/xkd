@@ -5,7 +5,7 @@
 require_once(__DIR__.'../vendor/autoload.php');
 
 
-use Xwy\TextComposer\Index;
+use textComposer\Index;
 
 echo (new Index())->demo1();
 echo (new Index())->index();

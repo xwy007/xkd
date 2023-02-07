@@ -1,15 +1,15 @@
 <?php
-namespace Xwy\TextComposer;
+namespace textComposer;
 
 class Index
 {
         public function index()
         {
-            return('index');
+            return('ff');
         }
 
         public function demo1()
         {
-            return('demo1');
+            return('44');
         }
 }

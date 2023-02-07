@@ -3,7 +3,7 @@
     "description": "aaa",
     "autoload": {
         "psr-4": {
-            "Xwy\\TextComposer\\": "src/"
+            "textComposer\\": "src/"
         }
     },
     "authors": [
