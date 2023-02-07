@@ -13,4 +13,8 @@ class Demo
     {
         return('Demo----44');
     }
+    public function demo3()
+    {
+        return('Demo----33333');
+    }
 }
